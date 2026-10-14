@@ -1,0 +1,9 @@
+streamlit>=1.61
+pandas>=2.0
+plotly>=5.20
+holidays>=0.60
+requests>=2.31
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+beautifulsoup4>=4.12
+python-docx>=1.1
